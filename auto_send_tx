@@ -1,6 +1,0 @@
-auto_send_tx/
-├── README.md
-├── config.py
-├── main.py
-├── requirements.txt
-└── .gitignore
